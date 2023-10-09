@@ -19,7 +19,7 @@ What datasets are you sourcing from? How frequently are the source datasets upda
 | Dvd Rental | PostgreSQL database |
 
 ## Solution architecture
-![images/Solution-Architecture-Project-2.png](images/Solution-Architecture-project-2.png)
+![images/Solution-Architecture-Project-2.png](images/Solution-Architecture-Project-2.png)
 
 ## Breakdown of tasks 
 Mark:
