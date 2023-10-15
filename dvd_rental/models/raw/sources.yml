@@ -1,0 +1,9 @@
+version: 1
+
+sources:
+  - name: dvd_rental
+    database: dvd_rental
+    schema: raw
+    tables:
+      - name: customer
+      - name: rental

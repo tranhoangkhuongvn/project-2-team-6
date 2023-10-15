@@ -1,0 +1,13 @@
+dvd_rental:
+  outputs:
+    dev:
+      type: snowflake
+      threads: 1
+      account:  #"{{ env_var('DBT_ENV_SECRET_ACCOUNT')}}"
+      user:  #"{{ env_var('DBT_ENV_SECRET_USER')}}"
+      password:  #"{{ env_var('DBT_ENV_SECRET_PASSWORD')}}"
+      role: DBT_RW
+      warehouse: ETL
+      database: DVD_RENTAL
+      schema: RAW
+  target: dev
