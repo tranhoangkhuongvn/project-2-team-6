@@ -7,3 +7,7 @@ sources:
     tables:
       - name: customer
       - name: rental
+      - name: film
+      - name: film_category
+      - name: category
+      - name: payment
