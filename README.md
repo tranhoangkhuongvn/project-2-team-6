@@ -41,11 +41,11 @@ Khuong:
 
 ## Solution running on the cloud
 ### Airbyte
-![images/Airbyte_EC2.png](images/Airbyte_EC2.png)
-![images/Airbyte_UI.png](images/Airbyte_UI.png)
+![images/Airbyte_EC2.PNG](images/Airbyte_EC2.PNG)
+![images/Airbyte_UI.PNG](images/Airbyte_UI.PNG)
 
 ### Snowflake
-![images/snowflake.png](images/snowflake.png)
+![images/snowflake.PNG](images/snowflake.PNG)
 
 ### Preset
-![images/preset_dashboard.png](images/preset_dashboard.png)
+![images/preset_dashboard.PNG](images/preset_dashboard.PNG)
