@@ -11,3 +11,9 @@ sources:
       - name: film_category
       - name: category
       - name: payment
+      - name: inventory
+      - name: country
+      - name: city
+      - name: address
+      - name: staff
+      - name: store
