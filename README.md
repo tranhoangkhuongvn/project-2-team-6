@@ -8,7 +8,9 @@ Managers, executives and customers
 
 ## Questions 
 > - Who are the top 10 customers?
+
 ![images/Question1.png](images/Question1.png)
+
 > - What are the top 10 popular categories, actors?
 > - What is the average duration of the rental?
 > - Is there a correlation between film category and rental period?
