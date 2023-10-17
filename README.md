@@ -21,17 +21,21 @@ What datasets are you sourcing from? How frequently are the source datasets upda
 
 | Dvd Rental | PostgreSQL database |
 
+## Preset visualisation
+
+![images/preset_dashboard.PNG](images/preset_dashboard.PNG)
+
 ## Solution architecture
 ![images/Solution-Architecture-Project-2.png](images/Solution-Architecture-Project-2.png)
 
 ## Breakdown of tasks 
 Mark:
-    - AWS Set up
-    - Data Modelling
-    - Transformation
-    - Documentation
+ - AWS Set up
+ - Data Modelling
+ - Transformation
+ - Documentation
 Khuong:
-    - Ingestion (Airbyte)
-    - Write Tests (dbt)
-    - Git repository set up
-    - Documentation
+ - Ingestion (Airbyte)
+ - Write Tests (dbt)
+ - Git repository set up
+ - Documentation
