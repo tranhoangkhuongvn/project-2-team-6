@@ -1,0 +1,13 @@
+version: 2
+
+models:
+  - name: report_top_10_customers
+    columns:
+      - name: customer_name
+        tests:
+          - not_null
+      - name: total_rentals
+        tests:
+          - not_null
+          - number_greater_than:
+                min_num: 30
