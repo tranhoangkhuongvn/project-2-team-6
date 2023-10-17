@@ -34,6 +34,7 @@ Mark:
  - Data Modelling
  - Transformation
  - Documentation
+
 Khuong:
  - Ingestion (Airbyte)
  - Write Tests (dbt)
