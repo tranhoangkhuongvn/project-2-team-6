@@ -7,5 +7,5 @@ models:
         tests:
           - not null
           - relationships:
-            to: ref('customers')
-            field: id
+              to: ref('customer')
+              field: customer_id
