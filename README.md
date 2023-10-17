@@ -19,6 +19,10 @@ What datasets are you sourcing from? How frequently are the source datasets upda
 
 | Dvd Rental | PostgreSQL database |
 
+## Preset visualisation
+
+![images/preset_dashboard.PNG](images/preset_dashboard.PNG)
+
 ## Solution architecture
 ![images/Solution-Architecture-Project-2.png](images/Solution-Architecture-Project-2.png)
 
@@ -33,6 +37,7 @@ Khuong:
 > - Ingestion (Airbyte)
 > - Write Tests (dbt)
 > - Git repository set up
+> - Documentation
 
 ## Solution running on the cloud
 ### Airbyte
